@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PushkarOP/pm4converter
+build-by-default: true
+branches:
+- master
+projects: []
+...
